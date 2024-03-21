@@ -29,8 +29,8 @@ Users can create an account to access and personalize their wedding plans.
 
 Add brief descriptions below each image:
 
-1. **Dashboard:** ![Dashboard Screenshot](images/dashboard.png "Overview of upcoming tasks, budget status, vendor contacts")
-2. **Task Management:** ![Task Management Screenshot](images/task_management.png "Adding, editing, and tracking tasks")
-3. **Vendor Management:** ![Vendor Management Screenshot](images/vendor_management.png "Adding, editing, and contacting vendors")
-4. **Budget Management:** ![Budget Management Screenshot](images/budget_management.png "Creating and managing budget categories")
-5. **Guest List Management:** ![Guest List Management Screenshot](images/guest_list_management.png "Adding, editing, and managing guest information")
+1. **Dashboard:** ![Dashboard Screenshot](assets/images/1.png)
+2. **About us:** ![Task Management Screenshot](assets/images/2.png )
+3. **Portfolio:** ![Vendor Management Screenshot](assets/images/3.png )
+4. **Pricing:** ![Budget Management Screenshot](assets/images/4.png )
+5. **Contact:** ![Guest List Management Screenshot](assets/images/5.png)
